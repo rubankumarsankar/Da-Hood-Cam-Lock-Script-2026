@@ -1,0 +1,7 @@
+pygame
+scipy
+opencv-python
+Pillow
+requests
+mouse
+numpy
